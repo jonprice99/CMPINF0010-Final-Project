@@ -3,9 +3,9 @@ Team name:
 Team members: Challa Eyasped (EYC8@pitt.edu), Mark Marquez (MJM388@pitt.edu), Jonathan Price (JOP135@pitt.edu)
 
 Datasets used: 
-Capital projects, Monetary budgeting for each neighborhood in Pittsburgh -  https://data.wprdc.org/dataset/capital-projects
-Police Incident Blotter (30 Day), Initial crime incident data for each neighborhood in Pittsburgh - https://data.wprdc.org/dataset/police-incident-blotter
-311 Data, 311 service requests for each neighborhood in Pittsburgh - https://data.wprdc.org/dataset/311-data
+Monetary budgeting for each neighborhood in Pittsburgh -  https://data.wprdc.org/dataset/capital-projects
+Initial crime incident data for each neighborhood in Pittsburgh - https://data.wprdc.org/dataset/police-incident-blotter
+311 service requests for each neighborhood in Pittsburgh - https://data.wprdc.org/dataset/311-data
 
 Abstract: 
 
