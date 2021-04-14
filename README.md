@@ -1,6 +1,6 @@
 # CMPINF0010-Final-Project
 ## Team name
-Group 4
+Jake's Lab Group 4
 
 ## Team members 
 Eyasped Challa (EYC8@pitt.edu), Mark Marquez (MJM388@pitt.edu), Jonathan Price (JOP135@pitt.edu)
